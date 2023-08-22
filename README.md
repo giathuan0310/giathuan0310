@@ -2,7 +2,7 @@
 Hi, Gia Thuận xin chào!
 
 
-🔭 I’m currently working on Cyber Security
+🔭 I’m currently working on Software
 - 🌱 I’m currently learning HTML CSS JS
 - 👯 I’m looking to collaborate on IUH
 - 🤔 I’m looking for help with everyone
