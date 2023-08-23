@@ -1,6 +1,6 @@
 
 Hi, Gia Thuận xin chào!
-
+<img alt="benner" style="width:100vw" src="https://storage.googleapis.com/duckly-blog/2021/03/gitduck-vs-code-extensions-animation-opt.gif">
 🔭 I’m currently working on Software
 - 🌱 I’m currently learning HTML CSS JS
 - 👯 I’m looking to collaborate on IUH
