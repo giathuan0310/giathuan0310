@@ -1,6 +1,8 @@
 
-Hi, Gia Thuận xin chào!
-<img alt="benner" style="width:100vw" src="[https://storage.googleapis.com/duckly-blog/2021/03/gitduck-vs-code-extensions-animation-opt.gif]">
+<h1 align="center">Hi 👋, I'm Gờ Thựn</h1>
+
+<img alt="benner" style="width:100vw" src="https://cdn.sanity.io/images/hpvpbfax/production/a57f81f44e079f700f17978c59c4ce4295ea5633-960x540.gif">
+
 🔭 I’m currently working on Software
 - 🌱 I’m currently learning HTML CSS JS
 - 👯 I’m looking to collaborate on IUH
