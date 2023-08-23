@@ -1,6 +1,6 @@
 
 Hi, Gia Thuận xin chào!
-<span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
+<span><img src=["https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E"](https://media3.giphy.com/media/434FZBCBy97t7XX0mP/200w.webp) alt="JavaScript logo" title="JavaScript" height="25" /></span>
   &nbsp;
 
 🔭 I’m currently working on Software
