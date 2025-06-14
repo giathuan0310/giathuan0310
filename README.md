@@ -4,7 +4,7 @@
 <img alt="benner" style="width:100vw" src="https://cdn.sanity.io/images/hpvpbfax/production/a57f81f44e079f700f17978c59c4ce4295ea5633-960x540.gif">
 
 🔭 I’m currently working on Software
-- 🌱 I’m currently learning HTML CSS JS
+- 🌱 I’m currently learning HTML CSS JS Java
 - 👯 I’m looking to collaborate on IUH
 - 🤔 I’m looking for help with everyone
 - 💬 Ask me about tools
